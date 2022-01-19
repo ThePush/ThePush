@@ -4,4 +4,4 @@
 
 ***
 
-![](https://tryhackme-badges.s3.amazonaws.com/Gits.png)(https://tryhackme.com/p/Gits)
+[![](https://tryhackme-badges.s3.amazonaws.com/Gits.png)](https://tryhackme.com/p/Gits)
