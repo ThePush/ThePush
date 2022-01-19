@@ -4,7 +4,4 @@
 
 ***
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Gits.png" alt="TryHackMe">
-
-
 ![](https://raw.githubusercontent.com/ThePush/ThePush/master/assets/thm_propic.png)
