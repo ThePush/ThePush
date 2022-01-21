@@ -4,4 +4,4 @@
 
 ***
 
-[![](https://raw.githubusercontent.com/ThePush/ThePush/master/assets/thm_propic.png)](https://tryhackme.com/p/Gits)
+[![](https://raw.githubusercontent.com/ThePush/ThePush/main/assets/thm_propic.png)](https://tryhackme.com/p/Gits)
