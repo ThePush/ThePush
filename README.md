@@ -14,7 +14,7 @@
 
 * Raycasting : Cub3d
 
-* STL containers : [ft_containers](https://github.com/ThePush/42_cursus/tree/master/ft_containers)
+* C++ Sandard Template List containers : [ft_containers](https://github.com/ThePush/42_cursus/tree/master/ft_containers)
 
 * Docker LEMP stack : [Inception](https://github.com/ThePush/42_cursus/tree/master/Inception)
 
