@@ -2,6 +2,8 @@
 
 [![](https://user-images.githubusercontent.com/91064070/163729175-916568ec-64e7-4a67-a126-ccedf9abffa6.png)](https://github.com/ThePush/42_cursus)
 
+Highlights:
+
 * Standard C library : [libft](https://github.com/ThePush/42_cursus/tree/master/Libft)
 
 * 2D game : [so_long](https://github.com/ThePush/42_cursus/tree/master/so_long)
