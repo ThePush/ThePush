@@ -14,7 +14,7 @@ Highlights:
 
 * Unix shell : [minishell](https://github.com/ThePush/42_cursus/tree/master/minishell)
 
-* Raycasting : Cub3d
+* Raycasting : [Cub3d](https://github.com/ThePush/42_cursus/tree/master/Cub3d)
 
 * C++ Standard Template List containers : [ft_containers](https://github.com/ThePush/42_cursus/tree/master/ft_containers)
 
