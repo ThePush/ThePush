@@ -6,7 +6,7 @@ Cursus highlights:
 
 * Standard C library : [libft](https://github.com/ThePush/42_cursus/tree/master/Libft)
 
-* 2D game : [so_long](https://github.com/ThePush/42_cursus/tree/master/so_long)
+* 2D game engine : [so_long](https://github.com/ThePush/42_cursus/tree/master/so_long)
 
 * Algorithm : [push_swap](https://github.com/ThePush/42_cursus/tree/master/push_swap)
 
@@ -14,7 +14,7 @@ Cursus highlights:
 
 * Unix shell : [minishell](https://github.com/ThePush/42_cursus/tree/master/minishell)
 
-* Raycasting : [Cub3d](https://github.com/ThePush/42_cursus/tree/master/Cub3d)
+* Raycasting engine : [Cub3d](https://github.com/ThePush/42_cursus/tree/master/Cub3d)
 
 * C++ Standard Template List containers : [ft_containers](https://github.com/ThePush/42_cursus/tree/master/ft_containers)
 
