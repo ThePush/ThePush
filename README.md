@@ -8,7 +8,7 @@ Cursus highlights:
 
 * 2D game engine : [so_long](https://github.com/ThePush/42_cursus/tree/master/so_long)
 
-* Algorithm : [push_swap](https://github.com/ThePush/42_cursus/tree/master/push_swap)
+* Sorting algorithms : [push_swap](https://github.com/ThePush/42_cursus/tree/master/push_swap)
 
 * Multithreading : [philosophers](https://github.com/ThePush/42_cursus/tree/master/philosophers)
 
