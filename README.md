@@ -22,6 +22,8 @@ Cursus highlights:
 
 * IRC server : [ft_irc](https://github.com/ThePush/42_cursus/tree/master/ft_irc)
 
+* Linear Regression from scratch : [ft_linear_regression](https://github.com/ThePush/ft_linear_regression)
+
 ***
 
 [![](https://raw.githubusercontent.com/ThePush/ThePush/main/assets/thm_propic.png)](https://tryhackme.com/p/Gits)
