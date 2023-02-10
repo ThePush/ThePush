@@ -1,33 +1,36 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/91064070/163729175-916568ec-64e7-4a67-a126-ccedf9abffa6.png"/>
+  <a href="https://github.com/ThePush/42_cursus">
+    <img src="https://user-images.githubusercontent.com/91064070/163729175-916568ec-64e7-4a67-a126-ccedf9abffa6.png"/>
+  </a>
 
 
 <table>
-<tr><th colspan=2>Cursus Highlights</th></tr>
-<tr><th>Common core</th><th>AI specialization</th></tr>
-<tr><td>
+  <tr><th colspan=2>Cursus Highlights</th></tr>
+  <tr><th>Common core</th><th>AI specialization</th></tr>
+  <tr><td>
 
-|			Topic				| Project	|
-|:---------------:|:-----------:|
- Standard C library | [libft](https://github.com/ThePush/42_cursus/tree/master/Libft) |
-2D game engine | [so_long](https://github.com/ThePush/42_cursus/tree/master/so_long) |
-Sorting algorithms | [push_swap](https://github.com/ThePush/42_cursus/tree/master/push_swap)|
-Multithreading | [philosophers](https://github.com/ThePush/42_cursus/tree/master/philosophers)|
-Unix shell | [minishell](https://github.com/ThePush/42_cursus/tree/master/minishell)|
-Raycasting engine | [Cub3d](https://github.com/ThePush/42_cursus/tree/master/Cub3d)|
-C++ Standard Template List containers | [ft_containers](https://github.com/ThePush/42_cursus/tree/master/ft_containers)|
-Docker LEMP stack | [Inception](https://github.com/ThePush/42_cursus/tree/master/Inception)|
-IRC server | [ft_irc](https://github.com/ThePush/42_cursus/tree/master/ft_irc)|
+  |			Topic				| Project	|
+  |:---------------:|:-----------:|
+   Standard C library | [libft](https://github.com/ThePush/42_cursus/tree/master/Libft) |
+  2D game engine | [so_long](https://github.com/ThePush/42_cursus/tree/master/so_long) |
+  Sorting algorithms | [push_swap](https://github.com/ThePush/42_cursus/tree/master/push_swap)|
+  Multithreading | [philosophers](https://github.com/ThePush/42_cursus/tree/master/philosophers)|
+  Unix shell | [minishell](https://github.com/ThePush/42_cursus/tree/master/minishell)|
+  Raycasting engine | [Cub3d](https://github.com/ThePush/42_cursus/tree/master/Cub3d)|
+  C++ Standard Template List containers | [ft_containers](https://github.com/ThePush/42_cursus/tree/master/ft_containers)|
+  Docker LEMP stack | [Inception](https://github.com/ThePush/42_cursus/tree/master/Inception)|
+  IRC server | [ft_irc](https://github.com/ThePush/42_cursus/tree/master/ft_irc)|
 
-</td><td>
+  </td><td>
 
-|			Topic				| Project	|
-|:---------------:|:-----------:|
-ML Bootcamp  (wip)| [ML bootcamp](https://github.com/ThePush/42_Python_ML)|
-Linear Regression from scratch | [ft_linear_regression](https://github.com/ThePush/ft_linear_regression)|
-Logistic regression from scratch (wip) | [DSLR](https://github.com/ThePush/dslr)|
+  |			Topic				| Project	|
+  |:---------------:|:-----------:|
+  ML Bootcamp  (wip)| [ML bootcamp](https://github.com/ThePush/42_Python_ML)|
+  Linear Regression from scratch | [ft_linear_regression](https://github.com/ThePush/ft_linear_regression)|
+  Logistic regression from scratch (wip) | [DSLR](https://github.com/ThePush/dslr)|
 
-</td></tr> </table>
+  </td></tr>
+ </table>
 
 </div>
 
