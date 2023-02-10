@@ -6,7 +6,7 @@
 
 <table>
   <tr><th colspan=2>Cursus Highlights</th></tr>
-  <tr><th>Common core</th><th>AI specialization</th></tr>
+  <tr><th>Common core 👨‍💻 ✅</th><th>AI specialization 🤖 📈</th></tr>
   <tr><td>
 
   |			Topic				| Project	|
