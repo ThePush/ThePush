@@ -57,6 +57,9 @@
 
 ***
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/ThePush/ThePush/main/assets/thm_propic.png"/>
 </div>
