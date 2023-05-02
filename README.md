@@ -62,6 +62,6 @@
 [![Python Project for Data Engineering](https://images.credly.com/size/110x110/images/197c5976-3094-475b-aac5-cb898331d2fc/DSN_-_Python_Project_for_Data_Engineering.png)](http://www.credly.com/badges/3b0b9c65-91cd-4b13-8439-ae0ca3799149 "Python Project for Data Engineering")
 <!--END_SECTION:badges-->
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/ThePush/ThePush/main/assets/thm_propic.png"/>
 </div>
