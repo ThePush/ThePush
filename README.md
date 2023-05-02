@@ -2,7 +2,7 @@
 
 I am Jeremy, a student at 42 Paris majoring in Computer Science and minoring in Data Architecture.<br>
 I have a keen interest in machine learning and deep learning.<br>
-I am currently doing my first 6 months internship as an R&D developer at Free/Iliad, one of France's telecom leader.<br>
+I am currently doing a 6 months internship as an R&D developer at Free/Iliad, one of France's telecom leader.<br>
 You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" height="25" ></a>.
 
 <h2>My projects for 42</h2>
