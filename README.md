@@ -58,6 +58,8 @@
 ***
 
 <!--START_SECTION:badges-->
+[![Python for Data Science and AI](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)](http://www.credly.com/badges/4913d092-443a-4273-9bb7-f07bfe942333 "Python for Data Science and AI")
+[![Python Project for Data Engineering](https://images.credly.com/size/110x110/images/197c5976-3094-475b-aac5-cb898331d2fc/DSN_-_Python_Project_for_Data_Engineering.png)](http://www.credly.com/badges/3b0b9c65-91cd-4b13-8439-ae0ca3799149 "Python Project for Data Engineering")
 <!--END_SECTION:badges-->
 
 <div align="center">
