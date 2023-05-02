@@ -1,3 +1,11 @@
+### Hello !
+
+I am Jeremy, a student at 42 Paris majoring in Computer Science and minoring in Data Architecture.<br>
+I have a keen interest in machine learning and deep learning.<br>
+I am currently doing my first 6 months internship as an R&D developer at Free/Iliad, one of France's telecom leader.<br>
+You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" height="25" ></a>.
+
+<h2>My projects for 42</h2>
 <div align="center">
   <a href="https://github.com/ThePush/42_cursus">
     <img src="https://user-images.githubusercontent.com/91064070/163729175-916568ec-64e7-4a67-a126-ccedf9abffa6.png"/>
@@ -34,13 +42,13 @@
 
 </div>
 
-***
+<h2>My GitHub stats</h2>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThePush&count_private=true&hide=issues&theme=tokyonight&show_icons=true"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThePush&layout=compact&theme=tokyonight&show_icons=true"/>
 </div>
 
-***
+<h2>Skills</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -53,9 +61,12 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src ="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-***
+<h2>Badges</h2>
 
 <!--START_SECTION:badges-->
 [![Python for Data Science and AI](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)](http://www.credly.com/badges/4913d092-443a-4273-9bb7-f07bfe942333 "Python for Data Science and AI")
