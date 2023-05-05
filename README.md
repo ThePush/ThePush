@@ -1,9 +1,9 @@
-<h4>Hello !</h4>
+Hello !
 
-<h4>I am Jeremy, a student at 42 Paris majoring in Computer Science and minoring in Data Architecture.</h4>
-<h4>I have a keen interest in machine learning and deep learning.</h4>
-<h4>I am currently doing a 6 months internship as an R&D developer at Free/Iliad, one of France's telecom leaders.</h4>
-<h4>You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" height="25" ></a>.</h4>
+I am Jeremy, a student at 42 Paris majoring in Computer Science and minoring in Data Architecture.<br>
+I have a keen interest in machine learning and deep learning.<br>
+I am currently doing a 6 months internship as an R&D developer at Free/Iliad, one of France's telecom leaders.<br>
+You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" height="25" ></a>.<br>
 
 <h2>My projects for 42</h2>
 <div align="center">
