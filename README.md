@@ -69,6 +69,7 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
 <h2>Badges</h2>
 
 <!--START_SECTION:badges-->
+[![Deep Learning Specialization](https://images.credly.com/size/110x110/images/dfcd0d51-de72-4e1c-8f8c-11dad7711124/image.png)](http://www.credly.com/badges/6d4feea8-4c10-42fd-977b-f819d35da3f3 "Deep Learning Specialization")
 [![Data Engineering Essentials](https://images.credly.com/size/110x110/images/412aaa80-56ba-4180-ad89-32427a644e95/Data_Engineering_Essentials.png)](http://www.credly.com/badges/ab54e56c-a99c-4774-b0b0-ed08be8f194e "Data Engineering Essentials")
 [![Python for Data Science and AI](https://images.credly.com/size/110x110/images/0571ab1d-f43b-43d9-9c68-8ebd0ebd61b7/Python_for_Data_Sci_and_AI_Foundational.png)](http://www.credly.com/badges/4913d092-443a-4273-9bb7-f07bfe942333 "Python for Data Science and AI")
 [![Python Project for Data Engineering](https://images.credly.com/size/110x110/images/197c5976-3094-475b-aac5-cb898331d2fc/DSN_-_Python_Project_for_Data_Engineering.png)](http://www.credly.com/badges/3b0b9c65-91cd-4b13-8439-ae0ca3799149 "Python Project for Data Engineering")
