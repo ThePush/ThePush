@@ -35,7 +35,7 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
   |:---------------:|:-----------:|
   ML Bootcamp | [ML bootcamp](https://github.com/ThePush/42_Python_ML)|
   Linear Regression from scratch | [ft_linear_regression](https://github.com/ThePush/ft_linear_regression)|
-  Logistic regression from scratch | [DSLR](https://github.com/ThePush/dslr)|
+  Logistic Regression from scratch | [DSLR](https://github.com/ThePush/dslr)|
 
   </td></tr>
  </table>
