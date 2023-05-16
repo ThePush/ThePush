@@ -33,7 +33,7 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
 
   |			Topic				| Project	|
   |:---------------:|:-----------:|
-  ML Bootcamp | [ML bootcamp](https://github.com/ThePush/42_Python_ML)|
+  42AI ML Bootcamp | [ML bootcamp](https://github.com/ThePush/42_Python_ML)|
   Linear Regression from scratch | [ft_linear_regression](https://github.com/ThePush/ft_linear_regression)|
   Logistic Regression from scratch | [DSLR](https://github.com/ThePush/dslr)|
 
