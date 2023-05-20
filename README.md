@@ -14,7 +14,7 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
 
 <table>
   <tr><th colspan=2>Cursus Highlights</th></tr>
-  <tr><th>Common core 👨‍💻 ✔️</th><th>AI specialization 🤖 📈</th></tr>
+  <tr><th>Common core (C/C++) 👨‍💻 ✔️</th><th>AI specialization (Python) 🤖 📈</th></tr>
   <tr><td>
 
   |			Topic				| Project	|
