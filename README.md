@@ -36,7 +36,7 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
   42AI ML Bootcamp | [ML bootcamp](https://github.com/ThePush/42_Python_ML)|
   Linear Regression from scratch | [ft_linear_regression](https://github.com/ThePush/ft_linear_regression)|
   Logistic Regression from scratch | [DSLR](https://github.com/ThePush/dslr)|
-  Artificial Neural Network from scratch | Multi Layer Perceptron|
+  Deep Neural Network from scratch | Multi Layer Perceptron|
 
   </td></tr>
  </table>
