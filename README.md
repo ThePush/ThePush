@@ -35,7 +35,6 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
   |:---------------:|:-----------:|
   42AI ML Bootcamp 1 | [ML bootcamp pt1](https://github.com/ThePush/42_Python_ML)|
   42AI ML Bootcamp 2 |[ML bootcamp pt2](https://github.com/ThePush/PythonML)|
-  
   Linear Regression from scratch | [ft_linear_regression](https://github.com/ThePush/ft_linear_regression)|
   Logistic Regression from scratch | [DSLR](https://github.com/ThePush/dslr)|
   Deep Neural Network from scratch | Multi Layer Perceptron|
