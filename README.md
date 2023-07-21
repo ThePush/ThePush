@@ -38,7 +38,7 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
   Linear Regression from scratch | [ft_linear_regression](https://github.com/ThePush/ft_linear_regression)|
   Logistic Regression from scratch | [DSLR](https://github.com/ThePush/dslr)|
   Deep Neural Network from scratch | Multi Layer Perceptron|
-  Computer Vision and CNN (VGG19) | Leaffliction|
+  Computer Vision and CNN (VGG19) | [Leaffliction](https://github.com/WalterLuong/leaffliction)|
 
   </td></tr>
  </table>
