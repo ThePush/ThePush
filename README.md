@@ -2,7 +2,7 @@ Hello !
 
 I am Jeremy, a student at 42 Paris, majoring in Computer Science and minoring in Data Architecture.<br>
 I have a keen interest in machine learning and deep learning.<br>
-I am currently doing an apprenticeship at Veepeeᵀᵉᶜʰ.<br>
+I am currently doing an apprenticeship at [Veepeeᵀᵉᶜʰ](https://www.linkedin.com/company/veepeetech).<br>
 You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" height="25" ></a>.<br>
 
 <h2>My projects for 42</h2>
