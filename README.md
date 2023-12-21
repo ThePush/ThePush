@@ -39,6 +39,7 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
   Logistic Regression from scratch | [DSLR](https://github.com/ThePush/dslr)|
   Deep Neural Network from scratch | Multi Layer Perceptron|
   Computer Vision and CNN (VGG19) | [Leaffliction](https://github.com/WalterLuong/leaffliction)|
+  Ensemble learning on EEG | [TPV](https://github.com/ThePush/total-perspective-vortex)|
 
   </td></tr>
  </table>
