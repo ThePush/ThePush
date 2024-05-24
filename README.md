@@ -37,7 +37,7 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
   42AI ML Bootcamp 2 |[ML bootcamp pt2](https://github.com/ThePush/PythonML)|
   Linear Regression from scratch | [ft_linear_regression](https://github.com/ThePush/ft_linear_regression)|
   Logistic Regression from scratch | [DSLR](https://github.com/ThePush/dslr)|
-  Deep Neural Network from scratch | Multi Layer Perceptron|
+  Deep Neural Network from scratch | [Multi Layer Perceptron](https://github.com/ThePush/MultilayerPerceptron)|
   Computer Vision and CNN (VGG19) | [Leaffliction](https://github.com/WalterLuong/leaffliction)|
   Ensemble learning on EEG | [TPV](https://github.com/ThePush/total-perspective-vortex)|
 
