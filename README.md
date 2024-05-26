@@ -19,13 +19,11 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
 
   |			Topic				| Project	|
   |:---------------:|:-----------:|
-   Standard C library | [libft](https://github.com/ThePush/42_cursus/tree/master/Libft) |
   2D game engine | [so_long](https://github.com/ThePush/42_cursus/tree/master/so_long) |
   Sorting algorithms | [push_swap](https://github.com/ThePush/42_cursus/tree/master/push_swap)|
   Multithreading | [philosophers](https://github.com/ThePush/42_cursus/tree/master/philosophers)|
   Unix shell | [minishell](https://github.com/ThePush/42_cursus/tree/master/minishell)|
   Raycasting engine | [Cub3d](https://github.com/ThePush/42_cursus/tree/master/Cub3d)|
-  C++ Standard Template List containers | [ft_containers](https://github.com/ThePush/42_cursus/tree/master/ft_containers)|
   Docker LEMP stack | [Inception](https://github.com/ThePush/42_cursus/tree/master/Inception)|
   IRC server | [ft_irc](https://github.com/ThePush/42_cursus/tree/master/ft_irc)|
 
@@ -33,8 +31,6 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
 
   |			Topic				| Project	|
   |:---------------:|:-----------:|
-  42AI ML Bootcamp 1 | [ML bootcamp pt1](https://github.com/ThePush/42_Python_ML)|
-  42AI ML Bootcamp 2 |[ML bootcamp pt2](https://github.com/ThePush/PythonML)|
   Linear Regression from scratch | [ft_linear_regression](https://github.com/ThePush/ft_linear_regression)|
   Logistic Regression from scratch | [DSLR](https://github.com/ThePush/dslr)|
   Deep Neural Network from scratch | [Multi Layer Perceptron](https://github.com/ThePush/MultilayerPerceptron)|
