@@ -64,7 +64,7 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel//"><img s
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
-<!--<h2>Badges</h2>
+<h2>Badges</h2>
 
 <!--START_SECTION:badges-->
 <!--[![Linux Commands & Shell Scripting Essentials](https://images.credly.com/size/110x110/images/964d28c3-1543-4e23-bc30-97a2cdc15a59/image.png)](http://www.credly.com/badges/5b54b895-2bad-4ba5-861d-b94a2c3163f4 "Linux Commands & Shell Scripting Essentials")
