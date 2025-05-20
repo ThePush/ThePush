@@ -5,7 +5,7 @@ I have a keen interest in machine learning and deep learning.<br>
 I am currently doing an apprenticeship at [Publicis Sapient](https://www.linkedin.com/company/publicissapient/).<br>
 You can contact me at <a href="https://www.linkedin.com/in/jeremysemel/"><img src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" height="25" ></a>.<br>
 
-<h2>My projects for 42</h2>
+<h2>42 projects</h2>
 <div align="center">
   <a href="https://github.com/ThePush/42_cursus">
     <img src="https://user-images.githubusercontent.com/91064070/163729175-916568ec-64e7-4a67-a126-ccedf9abffa6.png"/>
