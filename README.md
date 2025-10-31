@@ -1,6 +1,6 @@
 Hello !
 
-I am Jeremy, a computer science student at 42 Paris.<br>
+I am Jeremy.<br>
 I have a keen interest in machine learning and deep learning.<br>
 You can contact me at <a href="https://www.linkedin.com/in/jeremysemel/"><img src="https://icon-library.com/images/linked-in-icon-small/linked-in-icon-small-24.jpg" height="25" ></a>.<br>
 
