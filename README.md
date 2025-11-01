@@ -41,11 +41,11 @@ You can contact me at <a href="https://www.linkedin.com/in/jeremysemel/"><img sr
 
 </div>
 
-<h2>My GitHub stats</h2>
+<!--<h2>My GitHub stats</h2>
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ThePush&count_private=true&hide=issues&theme=tokyonight&show_icons=true"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ThePush&layout=compact&theme=tokyonight&show_icons=true"/>
-</div>
+</div>-->
 
 <h2>Skills</h2>
 <div align="center">
